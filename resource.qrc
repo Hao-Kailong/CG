@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>D:/Draw.ico</file>
+        <file>D:/save.ico</file>
+    </qresource>
+</RCC>
