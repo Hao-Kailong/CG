@@ -1,1 +1,1 @@
-# Computer Graphs
+# Computer Graphics Course Project
